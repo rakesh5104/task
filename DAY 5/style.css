@@ -1,0 +1,44 @@
+#a, th, tr, td {
+    border: 1px solid;
+}
+table { 
+    border-collapse: collapse;
+    }
+th {
+    background-color: #0c9de1;
+}
+#w{
+    background-color: #e10c81;
+}
+#s{
+    background-color: #e10c81;
+}
+#e{
+    background-color: #e10c81;
+}
+.k{
+    background-color: #e10c81;
+}
+#m{
+    background-color: #e10c81;
+    margin-right:80%;
+}
+#h{
+    background-color: #e10c0c;
+    font-style: italic;
+}
+body{
+    border: 10px solid black;
+    background-color: aqua;
+    width: 100%;
+    margin: 0%;
+    padding: 10;
+}
+#f{
+    background-color: #e10c81;
+    margin-right: 160px;
+    text-align: center;
+}
+#html{
+    color: rgb(1, 22, 22);
+}
