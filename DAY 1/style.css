@@ -1,0 +1,11 @@
+a{
+    background-color: rgb(0, 255, 255);
+    display: block;
+    text-align: center;
+    color: black;
+    border: solid black;
+    border-radius: 2rem;
+}
+a:hover{
+    background-color: antiquewhite;
+}
